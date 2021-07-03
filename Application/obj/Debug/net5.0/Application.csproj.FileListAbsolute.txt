@@ -1,0 +1,17 @@
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\bin\Debug\net5.0\Application.deps.json
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\bin\Debug\net5.0\Application.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\bin\Debug\net5.0\ref\Application.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\bin\Debug\net5.0\Application.pdb
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\bin\Debug\net5.0\Domain.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\bin\Debug\net5.0\Persistance.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\bin\Debug\net5.0\Persistance.pdb
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\bin\Debug\net5.0\Domain.pdb
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\obj\Debug\net5.0\Application.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\obj\Debug\net5.0\ref\Application.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Application\obj\Debug\net5.0\Application.pdb

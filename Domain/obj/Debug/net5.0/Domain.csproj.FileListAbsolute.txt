@@ -1,0 +1,12 @@
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\bin\Debug\net5.0\Domain.deps.json
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\bin\Debug\net5.0\Domain.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\bin\Debug\net5.0\ref\Domain.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\bin\Debug\net5.0\Domain.pdb
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\obj\Debug\net5.0\Domain.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\obj\Debug\net5.0\ref\Domain.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Domain\obj\Debug\net5.0\Domain.pdb

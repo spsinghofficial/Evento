@@ -1,0 +1,15 @@
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\bin\Debug\net5.0\Persistance.deps.json
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\bin\Debug\net5.0\Persistance.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\bin\Debug\net5.0\ref\Persistance.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\bin\Debug\net5.0\Persistance.pdb
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\bin\Debug\net5.0\Domain.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\bin\Debug\net5.0\Domain.pdb
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\obj\Debug\net5.0\Persistance.csprojAssemblyReference.cache
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\obj\Debug\net5.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfoInputs.cache
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfo.cs
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\obj\Debug\net5.0\Persistance.csproj.CoreCompileInputs.cache
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\obj\Debug\net5.0\Persistance.csproj.CopyComplete
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\obj\Debug\net5.0\Persistance.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\obj\Debug\net5.0\ref\Persistance.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Persistance\obj\Debug\net5.0\Persistance.pdb
