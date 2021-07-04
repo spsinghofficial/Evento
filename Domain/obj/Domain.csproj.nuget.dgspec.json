@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj": {}
+    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj": {
+    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj",
+        "projectUniqueName": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj",
+        "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\obj\\",
+        "outputPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

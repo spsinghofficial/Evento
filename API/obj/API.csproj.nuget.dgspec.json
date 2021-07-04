@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\API\\API.csproj": {}
+    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\API\\API.csproj": {}
   },
   "projects": {
-    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\API\\API.csproj": {
+    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\API\\API.csproj",
+        "projectUniqueName": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\API\\API.csproj",
+        "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\API\\obj\\",
+        "outputPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Application\\Application.csproj": {
-                "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Application\\Application.csproj"
+              "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Application\\Application.csproj": {
+                "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Application\\Application.csproj"
               }
             }
           }
@@ -44,6 +44,16 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -71,14 +81,14 @@
         }
       }
     },
-    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Application\\Application.csproj": {
+    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Application\\Application.csproj",
+        "projectUniqueName": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Application\\Application.csproj",
+        "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Application\\obj\\",
+        "outputPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,11 +105,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj": {
-                "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj"
+              "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj": {
+                "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj"
               },
-              "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Persistance\\Persistance.csproj": {
-                "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Persistance\\Persistance.csproj"
+              "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Persistance\\Persistance.csproj": {
+                "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Persistance\\Persistance.csproj"
               }
             }
           }
@@ -132,14 +142,14 @@
         }
       }
     },
-    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj": {
+    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj",
+        "projectUniqueName": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj",
+        "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\obj\\",
+        "outputPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -186,14 +196,14 @@
         }
       }
     },
-    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Persistance\\Persistance.csproj": {
+    "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Persistance\\Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Persistance\\Persistance.csproj",
+        "projectUniqueName": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Persistance\\Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Persistance\\Persistance.csproj",
+        "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Persistance\\Persistance.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Persistance\\obj\\",
+        "outputPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,8 +220,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj": {
-                "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj"
+              "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj": {
+                "projectPath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj"
               }
             }
           }
@@ -225,6 +235,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

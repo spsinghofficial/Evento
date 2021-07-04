@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/an82qTH7QNLLhMltbnvmnGCVG/GnaNd2cJxkUwVgOioptbpPpdWx6viJ253XJo1LfeRlfxrGioj/OG0EFRxeQ==",
+  "dgSpecHash": "apBrl80P6if/wvVpPI3bZJRb7VlQ0SBEbrBEnsWkJfSZgxNlg5t9LwRBL35n2SZXtQXv0yhx1qSmIL9zgxWq3g==",
   "success": true,
-  "projectFilePath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Domain\\Domain.csproj",
+  "projectFilePath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
