@@ -96,3 +96,5 @@ S:\SoftwareDevelopment\Github_repos\EventApp\Evento\API\obj\Debug\net5.0\API.dll
 S:\SoftwareDevelopment\Github_repos\EventApp\Evento\API\obj\Debug\net5.0\ref\API.dll
 S:\SoftwareDevelopment\Github_repos\EventApp\Evento\API\obj\Debug\net5.0\API.pdb
 S:\SoftwareDevelopment\Github_repos\EventApp\Evento\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+S:\SoftwareDevelopment\Github_repos\EventApp\Evento\API\bin\Debug\net5.0\MediatR.dll
+S:\SoftwareDevelopment\Github_repos\EventApp\Evento\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

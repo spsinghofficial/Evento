@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OEpojFZVoWXblr8uFsTuDP7IwEG93Fp10FtBsXr/CDlWpa5f5NNgyY+o/P7jygJjI6L8nduei7dhxvRhJ6cdww==",
+  "dgSpecHash": "ROgA4Nhwu3iDiP17vHmTyb1qE2H3veRoHY4y1JyCG2/r9111+NgWeiaU9+AHXb/GUpUQCG6h0ePdG1n1X6rrtw==",
   "success": true,
   "projectFilePath": "S:\\SoftwareDevelopment\\Github_repos\\EventApp\\Evento\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.7\\microsoft.data.sqlite.core.5.0.7.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
